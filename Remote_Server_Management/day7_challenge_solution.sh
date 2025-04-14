@@ -2,13 +2,12 @@
 
 #####################################################################
 # Script Name: day7_challange_solution.sh
-# Author: Salwad Basha Shaik
+# Author: jayabalaji guttula
 # Date: August 6, 2023
 # Description: This script contains solution for Day 7-Mastering Remote Server Management and Web App Deployment as part of BashBlaze: 7 Days of Bash Scripting Challenge.
 # Usage: ./day7_challange_solution.sh
-# Email: salvathshaik786143@gmail.com
-# LinkedIn: https://www.linkedin.com/in/salwad-basha-shaik/
-# Github: https://github.com/salvathshaik/
+# Email: guttulabalajijaya@gmail.com
+# Github: https://github.com/jaya8500/
 #####################################################################
 
 
